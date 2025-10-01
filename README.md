@@ -24,3 +24,6 @@ La aplicación está construida con **Streamlit** y permite explorar el dataset 
 La aplicación puede ejecutarse de forma local con:
 ```bash
 streamlit run app.py
+
+o por medio web con:
+https://sprint7-dashboard-8aaj.onrender.com/
